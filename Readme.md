@@ -3,7 +3,7 @@
 
 
 - Step 1 - Prompt for question and student numbers
-	- TODO 1.1 - Ask from user the number of questions and the number of 				students in class
+	- TODO 1.1 - Ask from user the number of questions and the number of students in class
 
 - Step 2 - Parse country data text file in a Dictionary
 	- TODO 2.1 - Create empty countries dictionary
@@ -14,7 +14,7 @@
 	- TODO 3.1 - Generate questions files based on number of students
 	- TODO 3.2 - Write header for the quiz in questions text files
 	- TODO 3.3 - Shuffle the order of countries based on random module
-	- TODO 3.4 - Loop through number of questions and make a question 				for each
+	- TODO 3.4 - Loop through number of questions and make a question for each
 
 - Step 4 - Create multiple options for answers and answer text files
 	- TODO 4.1 - Get correct and wrong answers
